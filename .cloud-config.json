@@ -1,0 +1,11 @@
+{
+  "useOwnCloud": true,
+  "token": {
+    "access_token": "rclone-config-file",
+    "token_type": "",
+    "refresh_token": "",
+    "expiry": "0001-01-01T00:00:00Z"
+  },
+  "email": "已上传配置文件",
+  "picture": ""
+}

@@ -1,0 +1,13 @@
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 建议忽略 SillyTavern 的临时缓存
+cache/
+tmp/
+
+# 如果有超过 100MB 的单体背景视频或超大图，建议手动在此排除
+# 例如：/backgrounds/large-video.mp4

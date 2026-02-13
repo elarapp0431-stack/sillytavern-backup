@@ -1,0 +1,14 @@
+{
+  "date": "2026-01-27",
+  "onlineTimeMs": 23898762,
+  "onlineMinutes": 398,
+  "sessionCount": 1,
+  "uniqueIps": [
+    "1.161.39.96"
+  ],
+  "uniqueDevices": [
+    "Edge|Windows|Desktop"
+  ],
+  "firstActive": "23:28:25",
+  "lastActive": "23:28:25"
+}

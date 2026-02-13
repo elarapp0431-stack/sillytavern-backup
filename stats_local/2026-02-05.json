@@ -1,0 +1,14 @@
+{
+  "date": "2026-02-05",
+  "onlineTimeMs": 3756501,
+  "onlineMinutes": 62,
+  "sessionCount": 1,
+  "uniqueIps": [
+    "18.141.207.252"
+  ],
+  "uniqueDevices": [
+    "Safari|macOS|Mobile"
+  ],
+  "firstActive": "19:46:37",
+  "lastActive": "19:46:37"
+}
